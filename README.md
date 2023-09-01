@@ -4,3 +4,5 @@
 
 - com.google.android.gms:play-services-location:21.0.1
 - com.naver.maps:map-sdk:3.17.0
+
+AndroidManifest -> Metadata -> CLIENT_ID 추가 필요
